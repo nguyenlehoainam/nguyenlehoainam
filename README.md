@@ -1,8 +1,9 @@
 ## 💫About Me :
 Hi 👋, I'm NeLam
-*🔭 I’m currently working on HIT club - HaUI
-*🌱 I’m a Frontend-focused Software Engineer. I firmly believe that good code goes hand-in-hand with beautiful and intuitive design
-*📫 To reach me 0966618229 || namngyenhoai21@gmail.com
+
+ 🔭 I’m currently working on HIT club - HaUI<br>
+ 🌱 I’m a Frontend-focused Software Engineer. I firmly believe that good code goes hand-in-hand with beautiful and intuitive design<br>
+ 📫 To reach me 0966618229 || namngyenhoai21@gmail.com
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/namngyen) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nguyen.ne.hoai.lam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/namngyenhoai21) 
